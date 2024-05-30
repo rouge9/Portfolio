@@ -20,9 +20,10 @@ const typedtext = document.getElementsByClassName("typedtext")[0];
 var typed = new Typed(typedtext, {
   strings: [
     "Full Stack Developer",
+    "App Developer",
+    "Full Stack Developer",
     "Ui/Ux Designer",
     "Freelancer",
-    "Data Scientist",
   ],
   typeSpeed: 130,
   backSpeed: 100,
